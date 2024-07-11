@@ -108,7 +108,7 @@
   <a href="" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="Buiduongkhaquandev-linkedin" />
   </a>
-  <a href="" target="blank">
+  <a href="https://www.instagram.com/quanbui3619" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="Buiduongkhaquandev-instagram" />
   </a>
   <a href="mailto:buiduongkhaquan@gmail.com" target="top">
