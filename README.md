@@ -74,9 +74,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint logo" title="ESLint" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker logo" title="Docker" height="
-
-25" /></span>
+<span><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker logo" title="Docker" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman logo" title="Postman" height="25" /></span>
 &nbsp;
